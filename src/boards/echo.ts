@@ -4,7 +4,7 @@
  * SPDX-License-Identifier: Apache-2.0
  */
 
-import { Board } from "npm:@google-labs/breadboard";
+import { Board } from "@google-labs/breadboard";
 
 const board = new Board({
   title: "Echo",
