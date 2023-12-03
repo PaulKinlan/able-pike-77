@@ -11,5 +11,8 @@
   "devDependencies": {
     "typescript": "^5.0.2",
     "vite": "^4.3.9"
+  },
+  "dependencies": {
+    "@google-labs/breadboard": "^0.5.1"
   }
 }
